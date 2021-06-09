@@ -55,6 +55,8 @@ There are four steps to connect to the game. Firstly, you have to stable interne
 
 ## Garage
 
+ <img src="ReadMeResources/garage.png" />
+ 
 In the garage scene, there is a scrolling system to pass from car to car. All cars store in an array which index of it is # of cars. When you scroll to another car, destroy the car, and instantiate the new car (actually to use an object pool may be more efficient than that).In the last index of the array, we used a modular equation to get an infinite loop between all cars. There are also some UI components to show the properties of the vehicles. When you decided to choose what car you are going to drive, click the play button and load to the map.
 
 ## Minimap
