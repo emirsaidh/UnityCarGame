@@ -20,7 +20,7 @@ There are four car control scripts. One of them is on the main camera, the other
 We have 3 types of skills in the game. 
 * Mine
 * Shield
-* Missile
+* Homming Missile
 ### Mine
 
 When the landmine collided with the vehicle, The vehicle is scattered by exploding force of the landmine. the vehicle gets damage and the landmine destroys itself from the server (and all clients). 
